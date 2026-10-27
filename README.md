@@ -8,6 +8,14 @@
 
 ---
 
+## Collaborators (even effort)
+
+- Matteo Kovacic — [GitHub](https://github.com/MatteoKova)
+- Samuele Zambelli — [GitHub](https://github.com/sazmb)
+- Simone Mansueti - [GitHub](https://github.com/simonemansueti14)
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#-project-overview)
