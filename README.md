@@ -10,9 +10,9 @@
 
 ## Collaborators
 
-- Matteo Kovacic — [GitHub](https://github.com/MatteoKova)
-- Samuele Zambelli — [GitHub](https://github.com/sazmb)
-- Simone Mansueti — [GitHub](https://github.com/simonemansueti14)
+- Matteo — [GitHub](https://github.com/MatteoKova)
+- Samuele — [GitHub](https://github.com/sazmb)
+- Simone — [GitHub](https://github.com/simonemansueti14)
 
 ---
 
