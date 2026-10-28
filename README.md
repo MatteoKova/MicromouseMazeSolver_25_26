@@ -1,4 +1,4 @@
-# Micromouse Maze Solver
+# Micromouse Maze Solver - Robotica
 
 > A research-grade implementation of two maze-solving algorithms for the [mms Micromouse Simulator](https://github.com/mackorone/mms) by Mackorone.
 
